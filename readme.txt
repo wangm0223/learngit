@@ -1,2 +1,2 @@
-my name is wm.
-git is very goods!
+my name is wm. ok!
+git is very goods! okay!
